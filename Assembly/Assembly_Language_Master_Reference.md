@@ -2,6 +2,11 @@
 
 > A consolidated reference of theoretical knowledge, practical implementations, and project exercises covering the 8086/8088 architecture as studied through the emu8086 environment.
 
+**Author:** Abdulrahman Arfan Salem  
+**Institution:** Al-Sham Private University — Faculty of Engineering  
+**Environment:** emu8086 | **Architecture:** 8086/8088 (16-bit real mode)  
+**Scope:** Memory access, arithmetic, control flow, I/O, procedures, macros, and applied projects
+
 ---
 
 ## Table of Contents
