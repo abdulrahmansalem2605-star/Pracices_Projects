@@ -601,7 +601,7 @@ int dp(int state, int mask) {
 - Binary search
 - Sliding window
 - LCA queries
-- Bitmask enumeration
+- Bitmask enumeration    
 
 ---
 
