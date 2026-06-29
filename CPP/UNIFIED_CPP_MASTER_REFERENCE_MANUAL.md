@@ -2,12 +2,11 @@
 
 ## A Comprehensive Engineering Portfolio — From Foundations to Enterprise Systems
 
----
-
 **Author:** Abdulrahman Arfan Salem  
 **Institution:** Al-Sham Private University — Faculty of Engineering (ITE)  
 **Language:** C++ (C++11 through C++17)  
-**Scope:** Complete C++ proficiency demonstrated through 15+ projects spanning foundational concepts, data structures, algorithms, applied systems, and enterprise-grade architecture
+**Scope:** Complete C++ proficiency demonstrated through 15+ projects spanning foundational concepts, data structures, algorithms, applied systems, and enterprise-grade architecture  
+**Total Source Code:** ~8,000+ lines documented
 
 ---
 
