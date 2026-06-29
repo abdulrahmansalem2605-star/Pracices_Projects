@@ -1,15 +1,12 @@
-# Master Reference Manual — Programming & Software Development Portfolio
+# C# & Programming Fundamentals — Master Reference Manual
 
-**Student:** Abdulrahman  
-**Academic Period:** Fall 2024  
-**Document Classification:** Academic Portfolio — Unified Technical Reference  
-**Version:** 1.0
+> A comprehensive technical reference documenting algorithmic foundations, pseudocode design, and object-oriented system implementation across the IPG101 and IPG202 learning path.
 
----
-
-## Document Purpose
-
-This unified manual serves as a comprehensive technical reference documenting the complete body of work developed across the IPG101 and IPG202 courses. It presents a progressive journey from foundational algorithmic thinking to advanced system implementation, demonstrating competencies in computational problem-solving, dual-language software development, and professional engineering documentation.
+**Author:** Abdulrahman Arfan Salem  
+**Institution:** Al-Sham Private University — Faculty of Engineering  
+**Courses:** IPG101 (Pseudocode & Algorithmic Thinking) | IPG202 (Object-Oriented Programming)  
+**Languages:** Pseudocode, C++, C# | **Period:** Fall 2024  
+**Scope:** Algorithm design, flowchart construction, OOP systems, role-based access control, dual-language implementation
 
 ---
 
